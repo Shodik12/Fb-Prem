@@ -1,5 +1,4 @@
-# Luciver
-Make doang Follow Ngga,Luciver Crack FB
+# Fb-Prem
 
 # Crack-Fb
 
@@ -13,12 +12,11 @@ $ pip install requests bs4 futures
 
 $ pip install rich
 
-$ git clone https://github.com/LuciverXD/Luciver
-
-$ cd Luciver
+$ https://github.com/Shodik12/Fb-Prem
+$ cd Fb-Prem
 
 $ git pull
 
 $ python luciverfb.py
 
-key : bangluciganteng
+
